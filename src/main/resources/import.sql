@@ -1,0 +1,10 @@
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Doro', 'Pesch', 'Ms');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Bobby', 'Brown', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Kurt', 'Cobain', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Nina', 'Hagen', 'Mrs');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Jimi', 'Henrix', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Janis', 'Joplin', 'Ms');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Joe', 'Cocker', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Alice', 'Cooper', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Bruce', 'Springsteen', 'Mr');
+insert into Person(id, first_name, last_name, salutation) values (nextval('hibernate_sequence'), 'Eric', 'Clapton', 'Mr');
